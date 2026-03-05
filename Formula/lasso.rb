@@ -2,7 +2,7 @@ class Lasso < Formula
   desc "CLI and CI integration platform for iOS Simulator automation"
   homepage "https://github.com/kylebrowning/lasso"
   url "https://github.com/kylebrowning/lasso/releases/download/0.2.6/lasso-0.2.6-macos.tar.gz"
-  sha256 "180634128a4043034d5ed867b61660bd94cdd1b3c08737995070b1b5305cee4f"
+  sha256 "8d90dc6e250e38fd7a68ff5b3de05788dde4ea270ea41cd0bf54977c6edffca9"
   version "0.2.6"
   license "MIT"
 
