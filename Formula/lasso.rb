@@ -1,9 +1,9 @@
 class Lasso < Formula
   desc "Visual regression CI for iOS"
   homepage "https://github.com/kylebrowning/lasso"
-  url "https://github.com/kylebrowning/lasso/releases/download/0.4.1/lasso-0.4.1-macos.tar.gz"
-  sha256 "fae3bd7fd167ee7730ca4ae20cd6af1bb9077eaff6f3648e25e7eb3121ea15a9"
-  version "0.4.1"
+  url "https://github.com/kylebrowning/lasso/releases/download/0.4.2/lasso-0.4.2-macos.tar.gz"
+  sha256 "1f2a0b5e9b8be4af3cdd48819bac3ff80ec89e982b4e8d20ed630df817f63304"
+  version "0.4.2"
   license "MIT"
 
   depends_on :macos
